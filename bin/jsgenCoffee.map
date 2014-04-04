@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "jsgenCoffee.js",
+  "sourceRoot": "",
+  "sources": [
+    "jsgenCoffee.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA,SAAA;;AAAA,EAAA,SAAA,GAAY,OAAA,CAAQ,kBAAR,CAAZ,CAAA;;AAAA,EAEA,SAAS,CAAC,WAAV,CAAA,CAFA,CAAA;AAAA"
+}

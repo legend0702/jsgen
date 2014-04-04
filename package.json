@@ -1,0 +1,34 @@
+{
+	"name":"jsgen",
+	"version":"0.0.1",
+	"description": "Node.js Study :)",
+ 	"homepage": "https://github.com/legend0702",
+ 	"maintainers": [
+    {
+      "name": "HongQing.Zhu",
+      "email": "qwepoidjdj@gmail.com",
+      "url": "https://github.com/legend0702"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/legend0702"
+	},
+ 	"engines": {
+   		"node": ">=0.4.0"
+  	},
+	"bin" :{
+		"jsgen": "./bin/jsgen"
+	},
+	"scripts": {
+
+  	},
+	"browserify": {
+
+  },
+	"dependencies":{
+     "async": "0.2.10"
+	},
+  "readme" : "thx to use! :)"
+
+}
